@@ -21,7 +21,7 @@ dict_val = {'윤수': 25}
 
 5. O, X문제
 id로 리턴된 'identity'는 중복되지 않는다.(O, X)
-id의 값은 CPython을 제외한 JPython, Cython등에서는 메모리 주소를 나타낸다(O, X)
+id의 값은 -- 제외한 JPython, Cython등에서는 메모리 주소를 나타낸다(O, X)
 object는 인자를 받을 수도, callable 할수도 없다.(O, X)
 
 
